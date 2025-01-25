@@ -5,7 +5,7 @@ import numpy as np
 n = 1000000
 t = np.logspace(np.log10(10), np.log10(500), n)
 
-# try changing these parameeters
+# try changing these parameters
 A = [1, 1, 1.5, 1.5]
 d = [.004, .001, .002, .0015]
 f = [3, 1, 2, 2.5]
